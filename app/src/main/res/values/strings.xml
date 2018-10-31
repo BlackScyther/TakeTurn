@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TakeTurn</string>
+    <string name="add">Add ...</string>
+    <string name="initiative">Initiative!</string>
+    <string name="next"><![CDATA[Next >]]></string>
+    <string name="initiative_opt">Initiative (opt)</string>
+    <string name="npc">NPC</string>
+    <string name="enemy">Enemy</string>
+    <string name="player">Player</string>
+    <string name="choose_type">Choose type:</string>
+    <string name="name">Name</string>
+    <string name="add_new">Add new ...</string>
+    <string name="ini_semi">INI:</string>
+    <string name="_23">23</string>
+    <string name="_p2">+ 2</string>
+    <string name="title_activity_tt__ini_table">TT_IniTableActivity</string>
+    <string name="initiative_table">Initiative Table</string>
+    <string name="logo">Logo</string>
+</resources>

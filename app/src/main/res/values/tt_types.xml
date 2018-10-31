@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tt_types">
+        <item>Player</item>
+        <item>Enemy</item>
+        <item>NPC</item>
+        <item>Concentration</item>
+        <item>Timer</item>
+    </string-array>
+</resources>
